@@ -19,7 +19,7 @@ pip install --user es-xlsx2csv
 
 Once you've followed these steps, you should be able to run the script, using (it may take a few seconds to run, depending on the size of the file):
 
-`es-xlsx2csv [OPTIONS] csv_file.csv`
+`es-xlsx2csv [OPTIONS] xlsx_file.xlsx`
 
 For more help info, run:
 
